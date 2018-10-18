@@ -1,1 +1,1 @@
-# JavaTrening
+# JavaPractice
